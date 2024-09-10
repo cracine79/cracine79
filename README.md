@@ -1,6 +1,6 @@
 ##  Thanks for stopping by! 👋
 
-- 🔭 I’m currently building out more features on Renoun.com, my Reverb.com clone
+- 🔭 I’ve added the ability to add instrument reviews Renoun.com, my Reverb.com clone - give it a try!  (Username is anonomous unless you are signed in)
 - 🌱 I'm well into coding a reboot of my educational website Economics Videos That Don't Suck - up next - Quiz Question Algorithm! (Got any ideas?)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charlee-racine-50241a7b/)
 - 👯 Fun fact: I have twins
