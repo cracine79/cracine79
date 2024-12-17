@@ -1,7 +1,7 @@
-##  Thanks for stopping by! 👋
+##  Check out my stuff!
 
+- Economics Videos That Don't Suck (www.evtds.com) is live and in beta testing!  Users select the topics they want to study and are then guided through a curriculum that provides videos and review quizzes along with feedback on topic performance and custom generation of exercises designed to focus on individual weaknesses!  The algorithm is in place, but will continue to evolve!  Also in the near future, Econo-wizard, your AI assistant in studying.
 - 🔭 I’ve added the ability to add instrument reviews Renoun.com, my Reverb.com clone - give it a try!  (Username is anonomous unless you are signed in)
-- 🌱 I'm well into coding a reboot of my educational website Economics Videos That Don't Suck - up next - Quiz Question Algorithm! (Got any ideas?)
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/charlee-racine-50241a7b/)
 - 👯 Fun fact: I have twins
 
