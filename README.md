@@ -1,7 +1,7 @@
 ##  What I'm Working On
 
-- Economics Videos That Don't Suck (www.economicsvideos.com) is live and in beta testing!  Users select the topics they want to study and are then guided through a curriculum that provides videos and review quizzes along with feedback on topic performance and custom generation of exercises designed to focus on individual weaknesses!  The algorithm is in place, but will continue to evolve!  Also in the near future, Econo-wizard, your AI assistant in studying.
-- Currently we are in the preparing to migrate our frontend to Next.js for better SEO.  Wish us luck!
+- Economics Videos That Don't Suck (www.economicsvideos.com) is live and in beta testing!  The quiz-generating algorithm has been set up and continues to develop. 
+- Currently we are in the preparations to migrate our frontend to Next.js for better SEO.  Wish us luck!
 - I’ve added the ability to add instrument reviews Renoun.com, my Reverb.com clone - give it a try!  (Username is anonomous unless you are signed in)
 - 📫 How to reach me: charleelracine@gmail.com
 - 👯 Fun fact: I have twins
